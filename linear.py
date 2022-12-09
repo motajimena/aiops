@@ -4,6 +4,7 @@ import os
 #import matplotlib.pyplot as plt
 
 # TensorFlow
+
 import tensorflow as tf
  
 print(tf.__version__)
